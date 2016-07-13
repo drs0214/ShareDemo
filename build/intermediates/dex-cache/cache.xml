@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Twitter-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c4df89ff7ee572a5efc61be72fc4323629bbbd21">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Twitter-2.7.3_fdf6391a51ef40b815d522bd360eb61d987dac13.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Email-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5e1fea8882806dbe639a780f306ecc347facb294">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Email-2.7.3_03f3013cb589d89b0a207a59a2c302af70f18f45.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Tumblr-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7e3abd1c3f9e1de619fc8b25cb9cb5f736e632f3">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Tumblr-2.7.3_a052710a7f5d9e383bd5f096b4dc1cc578f12097.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Yixin-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b717c1b131a235bea6c4c93c506bbedd043c35c4">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-2.7.3_b5edcc4a3050a0402344551fe60187d57a6d2673.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Mingdao-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dc908e3ae459a571e2a7989e84b86b472cd9444">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Mingdao-2.7.3_f36579c8cb255df3ee6a5d0960cd3838bdea3875.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Linkedin-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="81df22a8bdd34099da4bbd00d28eb666d739ee99">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Linkedin-2.7.3_0d289861bca1b0085a3951f5b8b8d7ded04837e9.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\MobCommons-2016.0623.1641.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="57eee6c3e8bab2ed4b9a585a7f590808d6518573">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0623.1641_dbc29fd497361703d9bfe346e834b4c165e07432.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Pinterest-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="27a18cfc879d57637296470b66a1c0526efe7dcb">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Pinterest-2.7.3_bbdc83e0d4caee04eda096f70e13b2e405538632.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\MobTools-2016.0623.1641.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c1d0c1670293a30fc29f2ed8ba33e0a6f9821fe">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\MobTools-2016.0623.1641_4a6a2b3570bc859656ed7aefac78c5e9114c8c8b.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Renren-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="51383873ca2e2b010e72c72b71a8528d67d328bc">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Renren-2.7.3_dfd4848d64eeb591f51f83287b88b812539b14dd.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-YouDao-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="be1c6c589060727c1ab09e4d96be731a8ae7236f">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-YouDao-2.7.3_9fa56162d758ef5eed50efe52a8cc0574ace18a2.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Wechat-Moments-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="970252c65fcb3e7f8faa63a01faa58917dfc1c19">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.3_1ded325a179cc570f83d34409664a4b328558c78.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-QZone-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4720eef867e3b83217a9c45c42a9a6ec85bf6388">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.3_98b1cec3d9223c83e44609b3a15136e5c3350d46.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Line-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="883b67ccf21703e29162499f33de6ee344bff03b">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Line-2.7.3_b4eddce418f600eaa7832c7d8bd9a2336c2467ec.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Facebook-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ac696dbe2486a93248abc7e4ad3d53f041721eaf">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Facebook-2.7.3_f168f8379f2a05fc372170fb9b0dd8c938060c8c.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Douban-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9898733d08196aed12def2b004d99a1ae90fe74e">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Douban-2.7.3_795d2b8400dc02eda4bb52363287d93910acb0af.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-KaiXin-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="24396ede26a0e6a64551e8059abff93b38442e7a">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-KaiXin-2.7.3_604bc08438b267d1cb84105c81c61abad7381dc4.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-KakaoStory-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a1da080ddb450a9b5834b4d61e79e45b26652132">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-KakaoStory-2.7.3_541de87aafbd681e33fd10a14512b47e09ac022b.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Dropbox-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a0d7bc3edcc75e942172a5e5a9269096b4a8b85f">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Dropbox-2.7.3_30fba374f6a1961c67b4da356662b073a63992b1.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Alipay-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="20c571f066ce67c9f2cc8a4e777f20e085d6ee77">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Alipay-2.7.3_a95c5972cf35c797603183c6c347c6a531a347ff.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-WhatsApp-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f3f76ed03338344f8009b765097e2a54abfa0ef8">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-WhatsApp-2.7.3_cd3c4559509dea31e8cc600c09dd95767095607e.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Core-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d90e081f60d97b39fbb688a3043e0dc227111ed6">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.3_d48b4beb1e59ba409c9facdf3a0583aad7111e48.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8784a013d2cb527c74502667e49576bb81890fb5">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2104e34758dfaf3fe7d1c71985150d3e52c3d811.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Wechat-Core-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6dfb6daefbe903a246e83032045501ab329701a8">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.3_89ffff66217300f4756942fbbdf8687262222aa4.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Instapaper-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2a1fe5e35c8c81237c139992bb4320e8f43cf318">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Instapaper-2.7.3_d0c48e546965ea2c8e8534dd78eb360cb4a4e677.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8721cf6e8c5013e7896f4e99aa31d96be179e5c6">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\instant-run_31ee8976c9650624b05592ce5cc5ed0e4581a5dd.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Pocket-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a4567feec1940a422b06dcd7ddf4b2bc99cda169">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Pocket-2.7.3_8dc4610550b0b24d6eb406947ae5d3a6d57fca39.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Wechat-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b2bbbb5075adb434d125f3ac1d412129f0ab346e">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.3_f8165e8f40d528d3b99c773a4b9925a596b4d5ca.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-GooglePlus-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ce6acd7103002db785a61b03c8f790d205887bc5">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-GooglePlus-2.7.3_11a7cccbed5c286f1b052a3c08a15a8f6fbe441a.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Kakao-Core-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7554dc2f8739d343e595be2db3625650155b63ab">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Kakao-Core-2.7.3_6388d54369e8452a18e8b63e9e15d1f0288eb6fb.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-KakaoTalk-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2576163798671640caa2cbfb62586ae952c00f7e">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-KakaoTalk-2.7.3_6fe74288014da9258929686f4ec64ec4a97c58f3.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-QQ-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a1d89d2a66ec81307ae99a2a4ee0d7b11f75cb5b">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.3_a1ca01fa05b42cfdbe92ed5ad29d68e23814e317.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Yixin-Moments-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9f33180e9229b834fdcb13f5a65613938e9d763f">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-Moments-2.7.3_7d75e2679d61129e9ab96f510ac91a9597551c5f.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Foursquare-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85140f47b229eee0bd5b5da8507acda5d1d22f42">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Foursquare-2.7.3_06108d061b9f3b3a8b3da8f66a15dd664a0dc7b6.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Flickr-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="db9075e45cbcc3ecf6f4f0c389c569462991ad56">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Flickr-2.7.3_fb72a6c38cc88c2898ecfb8dab603278a4e7fd07.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-ShortMessage-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="90b10269c21942198260d74af086e578cf041d33">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-ShortMessage-2.7.3_2c4859e99c913e2fbe4a3b3c3f8cc15a8dc46132.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Wechat-Favorite-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="abe362ca1f5101fd79f89e46ad27c878a00ecc2c">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.7.3_d2cca1b9bd0e2318e754f5af97b2ac85db842402.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-SinaWeibo-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="da14045fadb57b99922fb528e4f9664fe211b848">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.7.3_0e0b80ac1ace6ec8aeb85dfcd097233e7c438678.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-VKontakte-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="27d273ebef31957a43dbaad2ce5a2f3ec15ddfe3">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-VKontakte-2.7.3_8a1d6e71dc01590e0cb268d8ac0a485e177c6931.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Evernote-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e02ca1c05eba04d07b338a4d448651c0d756f6a5">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Evernote-2.7.3_c3a6efdf3735a1af186ed23c7f1ca54b7625e90f.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Instagram-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="898c22d7f15c1d8edf56487452c3f1bcb0f26b88">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Instagram-2.7.3_ca1df3ddaf897156c731a730e4119d284cbedc10.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-FacebookMessenger-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e2d56b66078fbad5f00498bc7b3da0b9a0c2331f">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-FacebookMessenger-2.7.3_e54b2b9018b3272d442739eab6b9611c68867cb8.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-Yixin-Core-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1b633e1dcfadde56e4c318efeb2025b8cf30d955">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-Core-2.7.3_0589b20289e4f910f5ee755b1c1fd38d0dbe4148.jar" />
+    </item>
+    <item
+        jar="H:\ShareDemo\app\libs\ShareSDK-TencentWeibo-2.7.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f2a4300da6fc609407e0b9304103fc288c2153a3">
+        <dex dex="H:\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-TencentWeibo-2.7.3_f8c1ce6dfa1fb7d0065c02f90bc0a9278e5ee011.jar" />
+    </item>
+
+</items>

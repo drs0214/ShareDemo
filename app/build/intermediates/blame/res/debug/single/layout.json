@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\ShareDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\ShareDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\ShareDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_derect_share.xml",
+        "source": "H:\\ShareDemo\\app\\src\\main\\res\\layout\\activity_derect_share.xml"
+    }
+]
